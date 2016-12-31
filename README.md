@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My number one challenge that I encountered while making this app was that I didn't know enough php. My strategy to conquer this was to study up on php and php with mySql in order to accomplish this. Then, the only other major challenge I encountered was knocking the cobwebs off of my html and css skills, which wasn't too hard. 
 
 ## License
 
