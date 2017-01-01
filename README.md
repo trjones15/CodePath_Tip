@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+<iframe class="imgur-embed" width="100%" height="1340" frameborder="0" src="http://i.imgur.com/ZRDeaah.gifv#embed"></iframe>
 <img src='http://imgur.com/ZRDeaah' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Screentogif. Sorry I couldn't get Licecap to work on my computer.
