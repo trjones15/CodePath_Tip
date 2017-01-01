@@ -27,8 +27,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='http://i.imgur.com/ZRDeaah.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+[Imgur](http://i.imgur.com/ZRDeaah.gifv)
 ![alt tag](https://github.com/trjones15/CodePath_Tip/blob/master/Codepath2.gif)
 
 GIF created with Screentogif. Sorry I couldn't get Licecap to work on my computer.
