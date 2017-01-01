@@ -30,6 +30,7 @@ Here's a walkthrough of implemented user stories:
 <iframe class="imgur-embed" width="100%" height="1340" frameborder="0" src="http://i.imgur.com/ZRDeaah.gifv#embed"></iframe>
 <img src='http://imgur.com/ZRDeaah' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 [Imgur](http://i.imgur.com/ZRDeaah.gifv)
+![alt tag](https://github.com/trjones15/CodePath_Tip/Codepath2.gif)
 GIF created with Screentogif. Sorry I couldn't get Licecap to work on my computer.
 
 ## Notes
