@@ -4,7 +4,7 @@ CodePath Tip Calculator is a tip calculator PHP page.
 
 Submitted by: Trevor Jones
 
-Time spent: 5 hours spent in total
+Time spent: 8 hours spent in total
 
 ## User Stories
 
