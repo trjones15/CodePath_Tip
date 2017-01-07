@@ -4,7 +4,7 @@ CodePath Tip Calculator is a tip calculator PHP page.
 
 Submitted by: Trevor Jones
 
-Time spent: 8 hours spent in total
+Time spent: 13 hours spent in total
 
 ## User Stories
 
@@ -35,11 +35,11 @@ GIF created with Screentogif. Sorry I couldn't get Licecap to work on my compute
 
 ## Notes
 
-My number one challenge that I encountered while making this app was that I didn't know enough php. My strategy to conquer this was to study up on php and php with mySql in order to accomplish this. Then, the only other major challenge I encountered was knocking the cobwebs off of my html and css skills, which wasn't too hard. 
+My number one challenge that I encountered while making this app was that I didn't know enough php. My strategy to conquer this was to study up on php and php with mySql in order to accomplish this. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
