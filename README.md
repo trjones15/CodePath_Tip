@@ -28,8 +28,8 @@ Added a currency thousands separator
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories: [Imgur](http://i.imgur.com/ZRDeaah.gifv) (I couldn't get it to embed straight from imgur.)
-![alt tag](https://github.com/trjones15/CodePath_Tip/blob/master/Codepath2.gif)
+Here's a walkthrough of implemented user stories: 
+![alt tag](https://github.com/trjones15/CodePath_Tip/blob/master/CodepathAddedFunc.gif)
 
 GIF created with Screentogif. Sorry I couldn't get Licecap to work on my computer.
 
