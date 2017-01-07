@@ -35,7 +35,7 @@ GIF created with Screentogif. Sorry I couldn't get Licecap to work on my compute
 
 ## Notes
 
-My number one challenge that I encountered while making this app was that I didn't know enough php. My strategy to conquer this was to study up on php and php with mySql in order to accomplish this. 
+My number one challenge that I encountered while making this app was that I didn't know enough php. My strategy to conquer this was to study up on php in order to accomplish this. 
 
 ## License
 
