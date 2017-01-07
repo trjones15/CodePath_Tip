@@ -17,12 +17,13 @@ The following **required** functionality is complete:
 * [X] Submitted form values are retained when errors or results are shown.
 
 The following **optional** features are implemented:
-* [ ] Add support for custom tip percentage
-* [ ] Add support for splitting the tip and total
+* [X] Add support for custom tip percentage
+* [X] Add support for splitting the tip and total
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the functionality!
+* [X] List anything else that you can get done to improve the functionality!
+    Added a currency thousands separator
 
 ## Video Walkthrough
 
